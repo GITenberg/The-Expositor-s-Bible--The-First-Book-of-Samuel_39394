@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '36133'
     url: http://www.gutenberg.org/2009/agents/36133
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39394#The-Expositor-s-Bible--The-First-Book-of-Samuel
 gutenberg_issued: '2012-04-07'
 gutenberg_type: Text
 identifiers:
